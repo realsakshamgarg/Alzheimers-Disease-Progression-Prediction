@@ -1,6 +1,3 @@
-# Alzheimers-Disease-Progression-Prediction
-Machine Learning-based Alzheimer's disease progression prediction using Random Forest Regression and K-Means Clustering with a Streamlit web application.
-
 # 🧠 Alzheimer's Disease Progression Prediction
 
 A Machine Learning project for predicting Alzheimer's disease progression severity and grouping patients into risk clusters using **Random Forest Regression** and **K-Means Clustering**.
